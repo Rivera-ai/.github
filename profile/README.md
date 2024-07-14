@@ -8,4 +8,4 @@
 
 **🍿 Fun facts:** 
 - We are a Latin American❕ initiative, to be more exact from El Salvador🧠.
-- We do most of the development and training on the PyTorch Lightning platform due to lack of infrastructure and money ☠️ :b
+- We do most of the development and training on the PyTorch🐍 Lightning⚡️ platform due to lack of infrastructure and money ☠️ :b
