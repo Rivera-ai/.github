@@ -11,3 +11,6 @@
 - We do most of the development and training on the PyTorch🐍 Lightning⚡️ platform due to lack of infrastructure and money ☠️ :b
 
 ## The future of AI models will be Native Multimodal Models🧠👀👂, and the Zeus⚡️ family of models is our first effort to make that future a reality (Coming soon)🚀🛸
+
+## Zeus⚡️ in training🍿, coming soon🚀
+<img src="train.PNG" alt="Train">
