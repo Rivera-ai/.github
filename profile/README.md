@@ -9,7 +9,5 @@
 **🍿 Fun facts:** 
 - We are a Latin American❕ initiative, to be more exact from El Salvador🧠.
 - We do most of the development and training on the PyTorch🐍 Lightning⚡️ platform due to lack of infrastructure and money ☠️ :b
-  
-## ⚡️Web App that we have developed :b⚡️ : 💥[PodcastAI Studio](https://www.podcastai.tech/)☄️
 
 ## ⚡️Project page⚡️: 💥[Rivera.ai](https://rivera-ai.github.io/Rivera.ai-page/)☄️
